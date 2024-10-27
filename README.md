@@ -26,30 +26,30 @@
 
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)]
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 </br>
 
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](#)
 </br>
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
 </br>
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+[![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+[![SSIS](https://img.shields.io/badge/SSIS-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
 </br>
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD.svg?style=for-the-badge&logo=azure-functions&logoColor=white)
-![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure App Services](https://img.shields.io/badge/Azure%20App%20Services-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+[![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD.svg?style=for-the-badge&logo=azure-functions&logoColor=white)](#)
+[![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+[![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+[![Azure App Services](https://img.shields.io/badge/Azure%20App%20Services-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
 </br>
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Team Foundation Server](https://img.shields.io/badge/Team%20Foundation%20Server-008AD7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](#)
+[![Team Foundation Server](https://img.shields.io/badge/Team%20Foundation%20Server-008AD7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](#)
 
 
 
