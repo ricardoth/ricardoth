@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Ricardoth</h1>
+<h1 align="center">Hola 👋, Soy Ricardo Tillería</h1>
 <br>
 
 <p align="right"> <h3>Vistas de Perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=flat"
@@ -7,17 +7,17 @@
 
 <p><img align="right" src="https://github.com/ricardoth/ricardoth/blob/main/animation_500_kxa883sd.gif" alt="ricardoth" /></p>
 
-<h3 align="left">Contacto:</h3>
-<p align="left">
+<h3 align="center">Contacto:</h3>
+<p align="center">
   <a href="mailto:ricardotilleriaochoa@gmail.com">
       <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ricardo-tilleria/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/ricardoth"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> 
+<br>
+<h3 align="center">Lenguajes y Herramientas:</h3>
+<p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
@@ -53,7 +53,7 @@
 
 <br>
 
-<h3>Estadísticas :-</h3>
+<h3>Estadísticas :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoth&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ricardoth" 
