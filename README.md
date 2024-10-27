@@ -35,8 +35,8 @@
 </br>
 
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-
 </br>
+
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](#)
