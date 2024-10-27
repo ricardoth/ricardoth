@@ -45,7 +45,7 @@
 
 
 ## :bar_chart: Estadísticas 
-<h4 align="center">Contador de Visitas :eyes:</h4>
+<h4 align="left">Contador de Visitas :eyes:</h4>
 
 [![👁️](https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ricardoth)
 
