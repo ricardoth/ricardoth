@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, Soy Ricardo Tillería</h1>
 <br>
 
-<p align="center"> <h3>Vistas de Perfil :</h3> <img src="https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ricardoth" /> 
-  </p>
 
-<p><img align="center" src="https://github.com/ricardoth/ricardoth/blob/main/animation_500_kxa883sd.gif" alt="ricardoth" /></p>
+##  Visitas de Perfil
+[![Contador](https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=flat)](#)
 
 ## 🤝 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-tilleria)
