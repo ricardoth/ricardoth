@@ -3,7 +3,8 @@
 
 
 ##  Visitas de Perfil
-[![Contador](https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=flat)](#)
+[![Contador](https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ricardoth)
+
 
 ## 🤝 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-tilleria)
