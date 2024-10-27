@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, Soy Ricardo Tillería</h1>
 <br>
 
-<p align="right"> <h3>Vistas de Perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"> <h3>Vistas de Perfil :</h3> <img src="https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=flat"
     alt="ricardoth" /> 
   </p>
 
-<p><img align="right" src="https://github.com/ricardoth/ricardoth/blob/main/animation_500_kxa883sd.gif" alt="ricardoth" /></p>
+<p><img align="center" src="https://github.com/ricardoth/ricardoth/blob/main/animation_500_kxa883sd.gif" alt="ricardoth" /></p>
 
 ## 🤝 Contacto
-<p align="left">
+<p align="center">
   <a href="mailto:ricardotilleriaochoa@gmail.com">
       <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -18,41 +18,43 @@
 <br>
 
 ## 🛠️ Lenguajes y Herramientas
-<p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-sharp.svg"
-      alt="c" width="40" height="40" /> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
+[![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Jquery](https://img.shields.io/badge/jquery3%20-%231572B6.svg?&style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)](#)
+</br>
 
-<br>
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
+[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
+</br>
+
+[![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
+[![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+</br>
+
+![C#](https://img.shields.io/badge/C%23--purple?logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+</br>
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+</br>
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+</br>
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD.svg?style=for-the-badge&logo=azure-functions&logoColor=white)
+![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure App Services](https://img.shields.io/badge/Azure%20App%20Services-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+</br>
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Team Foundation Server](https://img.shields.io/badge/Team%20Foundation%20Server-008AD7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+
 
 ## Estadísticas 
 <p><img align="center"
@@ -68,7 +70,5 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoth&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ricardoth" /></p>
-      
-
 
 [ricardoth](https://github.com/ricardoth)
