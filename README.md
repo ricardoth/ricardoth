@@ -7,8 +7,8 @@
 
 <p><img align="right" src="https://github.com/ricardoth/ricardoth/blob/main/animation_500_kxa883sd.gif" alt="ricardoth" /></p>
 
-<h3 align="center">Contacto:</h3>
-<p align="center">
+## 🤝 Contacto
+<p align="left">
   <a href="mailto:ricardotilleriaochoa@gmail.com">
       <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -16,7 +16,8 @@
   <a href="https://github.com/ricardoth"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <br>
-<h3 align="center">Lenguajes y Herramientas:</h3>
+
+## 🛠️ Lenguajes y Herramientas
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -53,7 +54,7 @@
 
 <br>
 
-<h3>Estadísticas :</h3>
+## Estadísticas 
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoth&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ricardoth" 
