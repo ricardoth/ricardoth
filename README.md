@@ -46,7 +46,9 @@
 
 ## :bar_chart: Estadísticas 
 <h4 align="center">Contador de Visitas :eyes:</h4>
+
 [![👁️](https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ricardoth)
+
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoth&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ricardoth" 
