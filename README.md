@@ -1,19 +1,9 @@
 <h1 align="center">Hola 👋, Soy Ricardo Tillería</h1>
-<br>
-
-
-##  Visitas de Perfil
-[![👁️](https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ricardoth)
-
-
 
 ## 🤝 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-tilleria)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardotilleriaochoa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardoth)
-
-
-
 
 ## 🛠️ Lenguajes y Herramientas
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
@@ -54,7 +44,9 @@
 
 
 
-## Estadísticas 
+## :bar_chart: Estadísticas 
+<h4 align="center">Contador de Visitas :eyes:</h4>
+[![👁️](https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ricardoth)
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoth&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ricardoth" 
