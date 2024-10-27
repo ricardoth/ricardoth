@@ -13,13 +13,12 @@
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
+[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 </br>
 
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 [![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](#)
-
-[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 </br>
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
@@ -35,10 +34,8 @@
 [![SSIS](https://img.shields.io/badge/SSIS-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
 </br>
 
-[![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD.svg?style=for-the-badge&logo=azure-functions&logoColor=white)](#)
-[![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-[![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-[![Azure App Services](https://img.shields.io/badge/Azure%20App%20Services-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+
 </br>
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](#)
