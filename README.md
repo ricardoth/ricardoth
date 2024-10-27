@@ -3,7 +3,7 @@
 
 
 ##  Visitas de Perfil
-[![Contador](https://komarev.com/ghpvc/?username=ricardoth&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ricardoth)
+[![Contador](https://komarev.com/ghpvc/?username=ricardoth&label=Contador&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ricardoth)
 
 
 ## 🤝 Contacto
