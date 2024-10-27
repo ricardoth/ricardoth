@@ -9,11 +9,17 @@
 
 <p><img align="right" src="https://github.com/ricardoth/ricardoth/blob/main/animation_500_kxa883sd.gif" alt="ricardoth" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ricardo-tilleria/" target="blank"><img align="center"
+  <a href="mailto:ricardotilleriaochoa@gmail.com">
+      <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ricardo-tilleria/" target="blank">
+      <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="adam pithewan" height="30" width="40" />
+  </a>
+    <a href="https://github.com/ricardoth"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <br>
@@ -24,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-sharp.svg"
       alt="c" width="40" height="40" /> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -55,7 +61,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Estadísticas :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoth&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ricardoth" 
@@ -70,7 +76,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoth&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ricardoth" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 [ricardoth](https://github.com/ricardoth)
