@@ -35,7 +35,7 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](#)
 </br>
-[![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)](#)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-%23007AFF.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](#)
 [![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
 </br>
